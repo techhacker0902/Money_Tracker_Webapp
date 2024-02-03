@@ -12,8 +12,8 @@ body{
     margin: auto;
     border-radius: 79px;
     background: #e6d4f1;
-    box-shadow:  50px 50px 92px #948e33, 
-                 -50px -50px 92px #ffff73;
+    box-shadow:  50px 50px 92px #eaeae8, 
+                 -50px -50px 92px #3d3a3a;
     margin-top: 2rem;
 }
 #header{
